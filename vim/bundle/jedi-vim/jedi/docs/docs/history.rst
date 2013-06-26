@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/jedi-vim/jedi/docs/docs/history.rst

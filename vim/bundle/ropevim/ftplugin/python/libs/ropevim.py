@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/ropevim/ftplugin/python/libs/ropevim.py

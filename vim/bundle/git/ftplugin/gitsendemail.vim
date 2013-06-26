@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/git/ftplugin/gitsendemail.vim

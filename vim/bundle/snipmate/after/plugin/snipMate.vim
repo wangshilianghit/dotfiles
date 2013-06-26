@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/snipmate/after/plugin/snipMate.vim

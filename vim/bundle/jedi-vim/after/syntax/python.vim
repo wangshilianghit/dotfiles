@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/jedi-vim/after/syntax/python.vim

@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/command-t/ruby/command-t/finder/file_finder.rb

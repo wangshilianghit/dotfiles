@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/command-t/spec/spec_helper.rb

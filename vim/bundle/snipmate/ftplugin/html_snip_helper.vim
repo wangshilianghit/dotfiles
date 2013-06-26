@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/snipmate/ftplugin/html_snip_helper.vim

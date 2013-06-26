@@ -1,0 +1,1 @@
+/home/wang/dotfiles/vim/bundle/gundo/tests/test-movement.vim
