@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/jedi-vim/jedi/jedi/settings.py

@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/jedi-vim/jedi/test/completion/import_tree/pkg/__init__.py

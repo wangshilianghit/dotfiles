@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/command-t/plugin/command-t.vim

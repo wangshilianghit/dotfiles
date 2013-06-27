@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/git/doc/ft-gitcommit-plugin.txt

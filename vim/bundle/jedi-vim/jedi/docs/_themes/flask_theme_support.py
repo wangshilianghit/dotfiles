@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/jedi-vim/jedi/docs/_themes/flask_theme_support.py

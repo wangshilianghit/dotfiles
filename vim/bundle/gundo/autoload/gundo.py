@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/gundo/autoload/gundo.py

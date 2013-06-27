@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/py.test/README.rst

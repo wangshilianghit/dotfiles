@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/command-t/spec/command-t/finder/buffer_finder_spec.rb

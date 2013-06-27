@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/git/ftplugin/gitconfig.vim

@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/command-t/spec/vim_formatter.rb

@@ -1,1 +1,0 @@
-/home/wang/dotfiles/vim/bundle/gundo/tests/bundled/ut/plugin/UT.vim
