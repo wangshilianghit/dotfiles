@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/wang/dotfiles/vim/bundle/supertab/plugin'
+let g:netrw_dirhist_2='/home/wang/dotfiles/vim/bundle/supertab'
+let g:netrw_dirhist_3='/home/wang/dotfiles/vim/bundle/command-t/plugin'
+let g:netrw_dirhist_4='/home/wang/dotfiles/vim'
+let g:netrw_dirhist_5='/home/wang/dotfiles/ssh'
+let g:netrw_dirhist_6='/home/wang/dotfiles/vim'
+let g:netrw_dirhist_7='/home/wang/study/Startup Engineering/Assignment/Assignment2/node_modules/csv/doc'
+let g:netrw_dirhist_8='/home/wang/dotfiles/vim'
+let g:netrw_dirhist_9='/home/wang/dotfiles/ssh'
