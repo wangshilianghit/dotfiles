@@ -2,8 +2,8 @@ Host cs.jhu
     HostName    ugradX.cs.jhu.edu
     User    wangshi
 
-Host startup
-    HostName    54.213.12.94
+Host CV 
+    HostName    54.213.77.201
     User    ubuntu
     IdentityFile    "~/pemfile/wangshilianghit.pem"
 
@@ -11,3 +11,7 @@ Host elgg
     HostName    54.213.8.34    
     User    ubuntu
     IdentityFile    "~/pemfile/wangshilianghit.pem"
+
+Host clsp
+    HostName    login.clsp.jhu.edu
+    User     swang

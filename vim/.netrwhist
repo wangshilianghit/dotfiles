@@ -1,2 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/wang/Project/TawkTalk/WebApp2/views/login'
+let g:netrw_dirhist_2='/home/wang/Project/TawkTalk/WebApp/api/controllers'
+let g:netrw_dirhist_3='/home/wang/Project/TawkTalk/WebApp2/routes/videochat'
+let g:netrw_dirhist_4='/home/wang/Books'
+let g:netrw_dirhist_5='/home/wang/study/Natural Language Processing/Assignment/Assignment3/hw-lm/code'
+let g:netrw_dirhist_6='/home/wang/dotfiles/vim'
+let g:netrw_dirhist_7='/home/wang/study/CLSP/weiboCrawler'
